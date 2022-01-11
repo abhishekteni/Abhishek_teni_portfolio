@@ -1,0 +1,11 @@
+:root {
+  --mainColor: #1a374d;
+  --secondaryColor: #406882;
+  --mainText: #ffffff;
+  --secondaryText: orange;
+  --border: #6998ab;
+  --themeDotBorder: #24292e;
+  --previewBackground: rgb(48, 71, 94, 0.5);
+  --previewShadow: rgb(177, 208, 224);
+  --introBack: rgb(64, 104, 130, 0.4);
+}
